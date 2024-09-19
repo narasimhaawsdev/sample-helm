@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  my-custom-chart:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-09-19T17:33:37.9910208+05:30"
+    description: A Helm chart for Kubernetes
+    digest: d04d4432d4013ed4fa372cb5880d71a0de20aff2eabdfd4a1de2b393ba7e41a0
+    name: my-custom-chart
+    type: application
+    urls:
+    - https://narasimhaawsdev.github.io/helm-sample-chart/my-custom-chart-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-09-19T17:33:37.9836028+05:30"
